@@ -11,7 +11,7 @@
 # Must have
 
 - [x] L'utilisateur peut s'authentifier via google ou en créant un compte dans l'app 
-- [x] L’utilisateur peut signaler un incident (vol, agression, cambriolage, etc.) en ajoutant la date et l'heure, une description courte, une photo/vidéo, et la localisation.
+- [x] L’utilisateur peut signaler un incident de façon anonyme(vol, agression, cambriolage, etc.) en ajoutant la date et l'heure, une description courte, une photo/vidéo, et       la localisation.
 - [x] L’utilisateur peut recevoir une notification lorsqu’un incident survient.
 - [x] L’utilisateur peut visualiser les alertes sur une carte interactive, avec des codes couleur pour distinguer les types d'incidents.
 - [x] L’utilisateur peut consulter une liste des alertes récentes envoyées par d’autres membres de la communauté.
@@ -33,7 +33,7 @@
 
 # Would be nice to have
 - [ ] L'utilisateur peut changer la langue(Creole --> Francais; Francais --> Creole)
-- [ ] L'utilisateur peut changer le th ème de l'appli(Light/Dark)
+- [ ] L'utilisateur peut changer le thème de l'appli(Light/Dark)
 - [ ] L’utilisateur peut partager une alerte directement via WhatsApp, Facebook.
 - [ ] L’application peut générer des statistiques de sécurité (par ex. nombre d’incidents signalés par semaine).
 
