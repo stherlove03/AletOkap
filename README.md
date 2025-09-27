@@ -3,7 +3,7 @@
 
 # Membres du groupe
 - Esther Love Prisnie Desravines
-- Exantus Jean Noel
+- Exantus Jn-Noel
 - Stella Bejhina Metellus
   
 # User Stories
